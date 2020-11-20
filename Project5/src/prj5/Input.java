@@ -14,10 +14,15 @@ package prj5;
 *          Input Class for Porject 5
 */
 
+/**
+* Input class
+*/
 public class Input {
     
     
-    
+    /**
+     * main method 
+     */
     public void main(String[] args) {
         
     }
